@@ -14,7 +14,8 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 4. Return the solution vector for the given matrix.
 
 ## Program:
-'''Program to solve a matrix using Gaussian elimination without partial pivoting.
+'''
+Program to solve a matrix using Gaussian elimination without partial pivoting.
 Developed by: ROHITH J
 RegisterNumber: 212224230232
 '''
