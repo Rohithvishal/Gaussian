@@ -14,9 +14,12 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 4. Return the solution vector for the given matrix.
 
 ## Program:
+```
 '''
 Program to solve a matrix using Gaussian elimination without partial pivoting.
+
 Developed by: ROHITH J
+
 RegisterNumber: 212224230232
 '''
 import numpy as np
@@ -51,7 +54,7 @@ for i in range(n-2,-1,-1):
 for i in range(n):
     print("X%d = %0.2f" %(i,x[i]),end=" ")
         
-
+```
 ## Output:
 ![alt text](<Screenshot 2025-05-10 234604.png>)
 
